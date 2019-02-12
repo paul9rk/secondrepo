@@ -1,0 +1,3 @@
+Hello Paul, This is first text file.
+
+for Git practice.
